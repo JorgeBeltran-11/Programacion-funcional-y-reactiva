@@ -1,2 +1,5 @@
 # Universidad-Tecnica-Particular-de-Loja
-Proyectos de las materias que se reciben
+**Nombre:** Jorge Beltrán
+**Carrera:** Ingenieria en Computación
+**Ciclo:** Tercer semestre
+**Descripción del repositorio:** Proyectos, deberes, tareas, ejercicios, talleres, prácticas, etc.
