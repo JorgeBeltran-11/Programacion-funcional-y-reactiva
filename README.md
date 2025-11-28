@@ -1,4 +1,4 @@
-# Universidad-Tecnica-Particular-de-Loja
+# Programación funcional y reactiva
 **Nombre:** Jorge Beltrán
 **Carrera:** Ingenieria en Computación
 **Ciclo:** Tercer semestre
